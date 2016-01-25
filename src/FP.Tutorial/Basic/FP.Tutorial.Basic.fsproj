@@ -53,10 +53,11 @@
     <Compile Include="Ex3.fs" />
     <Compile Include="Ex4.fs" />
     <Compile Include="Ex5.fs" />
-    <Compile Include="Ex6.fs" />
+    <Compile Include="Ex7.fs" />
     <Compile Include="HW.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
+    <Compile Include="Ex6.fs" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
